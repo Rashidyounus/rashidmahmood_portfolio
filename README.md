@@ -1,4 +1,4 @@
-https://rashidmahmood-portfolio.netlify.ap
+https://rashidmahmood-portfolio.netlify.app/
 
 # React + Vite
 
